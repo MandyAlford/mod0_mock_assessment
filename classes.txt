@@ -1,0 +1,15 @@
+Class: dog
+
+Attributes:
+coatColor (string)
+coatLength (integer)
+height (integer)
+eyeColor (string)
+neutered (boolean)
+weight (integer)
+
+Methods:
+eat (increase weight by 1)
+walk (decrease weight by 1)
+neuter (change neutered status)
+groom (decrease coatLength by 1)
