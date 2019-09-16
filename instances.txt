@@ -1,0 +1,19 @@
+Object: golden retriever
+
+Attributes:
+coatColor (string) 'gold'
+coatLength (integer) 3
+height (integer) 22
+eyeColor (string) 'brown'
+neutered (boolean) true
+weight (integer) 50
+
+Object: black lab
+
+Attributes:
+coatColor (string) 'black'
+coatLength (integer) 1
+height (integer) 24
+eyeColor (string) 'brown'
+neutered (boolean) 'false'
+weight (integer) 65
