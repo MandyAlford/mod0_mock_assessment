@@ -11,5 +11,5 @@ weight (integer)
 Methods:
 eat (increase weight by 1)
 walk (decrease weight by 1)
-neuter (change neutered status)
+neuter (change neutered status to true)
 groom (decrease coatLength by 1)
